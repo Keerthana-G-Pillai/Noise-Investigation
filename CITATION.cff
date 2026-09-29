@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "HTRU2 Noise and Machine Learning Generalization"
+message: "Team 12 Machine Learning Course Project"
+type: software
+authors:
+  - family-names: "Pillai"
+    given-names: "Keerthana G"
+  - family-names: "Byju"
+    given-names: "Lakshmy"
+  - family-names: "Nair"
+    given-names: "Sreehari Sreekumar"
+  - family-names: "Ninan"
+    given-names: "Ben Mathew"
+abstract: "Controlled investigation of feature and label noise effects on Logistic Regression and KNN generalization using the HTRU2 pulsar classification dataset."
